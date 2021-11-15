@@ -16,5 +16,10 @@ Save Image Path :- The file path at which the image map with path embedded is to
 
 ## Report
 
-<!--
-![Page1](  -->
+![Page1](https://github.com/rishabhsahlot/lab1/blob/master/report_images/lab1ReportRishabhManishSahlot-1.jpg)
+
+![Page2](https://github.com/rishabhsahlot/lab1/blob/master/report_images/lab1ReportRishabhManishSahlot-2.jpg)
+
+![Page3](https://github.com/rishabhsahlot/lab1/blob/master/report_images/lab1ReportRishabhManishSahlot-3.jpg)
+
+![Page4](https://github.com/rishabhsahlot/lab1/blob/master/report_images/lab1ReportRishabhManishSahlot-4.jpg)
