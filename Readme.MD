@@ -16,4 +16,4 @@ Save Image Path :- The file path at which the image map with path embedded is to
 
 ## Report
 
-[embed]https://github.com/rishabhsahlot/lab1/blob/master/lab1ReportRishabhManishSahlot.pdf[/embed]
+<embed src="https://github.com/rishabhsahlot/lab1/blob/master/lab1ReportRishabhManishSahlot.pdf" type="application/pdf">
